@@ -1,0 +1,226 @@
+@import url('https://fonts.googleapis.com/css2? family= Lobster & display=swap');
+
+body {
+    background-image: url(img/tailand_2.jpg);
+    block-size: cover;
+    background-attachment: fixed;
+}
+
+.tailand {
+
+    color: rgb(247, 220, 220);
+    font-size: 50px;
+    font-family: 'Lobster', cursive;
+}
+
+.svedenia {
+    color: rgb(247, 220, 220);
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+}
+
+.flag {
+    color: rgb(247, 220, 220);
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+    background-color: rgba(44, 206, 255, 0.767);
+    width: 100px;
+    padding: 10px;
+    border: 4px rgb(136, 120, 221) solid;
+    transition: all .2s linear;
+
+
+}
+
+.flag:hover {
+    background: url(img/flag.png);
+    color: rgba(255, 255, 255, 0);
+    height: 90px;
+    width: 150px;
+    cursor: pointer;
+
+}
+
+.emblema {
+    color: rgb(247, 220, 220);
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+    background-color: rgba(44, 206, 255, 0.767);
+    width: 135px;
+    padding: 10px;
+    border: 4px rgb(136, 120, 221) solid;
+    transition: all .2s linear;
+    margin-left: 20px;
+}
+
+.boxo {
+    display: flex;
+
+}
+
+.emblema:hover {
+    background: url(img/emblema.png);
+    color: rgba(255, 255, 255, 0);
+    height: 75px;
+    width: 70px;
+    cursor: pointer;
+
+}
+
+.yazik {
+    color: rgb(247, 220, 220);
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+    background-color: rgba(44, 206, 255, 0.767);
+    width: 135px;
+    padding: 10px;
+    border: 4px rgb(136, 120, 221) solid;
+
+    margin-left: 20px;
+}
+
+
+
+
+.yazik2 {
+    color: rgba(240, 248, 255, 0);
+    transition: all .2s linear;
+}
+
+.yazik2:hover {
+    color: rgb(247, 220, 220);
+    cursor: pointer;
+}
+
+.stolica {
+    color: rgb(247, 220, 220);
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+    background-color: rgba(44, 206, 255, 0.767);
+    width: 135px;
+    padding: 10px;
+    border: 4px rgb(136, 120, 221) solid;
+
+    margin-left: 20px;
+}
+
+
+
+
+.stolica2 {
+    color: rgba(240, 248, 255, 0);
+    transition: all .2s linear;
+}
+
+.stolica2:hover {
+    color: rgb(247, 220, 220);
+    cursor: pointer;
+}
+
+.korol {
+    color: rgb(247, 220, 220);
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+    background-color: rgba(44, 206, 255, 0.767);
+    width: 135px;
+    padding: 10px;
+    border: 4px rgb(136, 120, 221) solid;
+    transition: all .2s linear;
+    margin-left: 20px;
+}
+
+.korol:hover {
+    width: 230px;
+}
+
+
+
+
+.korol2 {
+    color: rgba(240, 248, 255, 0);
+    transition: all .2s linear;
+}
+
+.korol2:hover {
+    color: rgb(247, 220, 220);
+    cursor: pointer;
+}
+
+.sait {
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+    margin-left: 200px;
+
+
+}
+
+.boxx {
+    width: 150px;
+    height: 50px;
+    margin: 10px;
+    background-color: rgba(44, 206, 255, 0.767);
+
+    color: rgb(247, 220, 220);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+
+    margin-left: 30%;
+    margin-top: 60px;
+    border: 4px rgb(136, 120, 221) solid;
+}
+
+.sait {
+    color: bisque;
+    background-color: rgba(44, 206, 255, 0.767);
+    margin-top: 50px;
+    border: 4px rgb(136, 120, 221) solid;
+
+}
+
+.ooo {
+    margin-top: 40px;
+}
+
+.box {
+    width: 150px;
+    height: 50px;
+    margin: 10px;
+    background-color: rgba(44, 206, 255, 0.767);
+
+    color: bisque;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    border: 4px rgb(136, 120, 221) solid;
+
+    margin-left: 10%;
+    margin-top: 60px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.boxii {
+    display: flex;
+}
+
+.bbb {
+    margin-left: 25%;
+    margin-top: 45px;
+    display: flex;
+}

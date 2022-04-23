@@ -1,0 +1,47 @@
+body {
+    background-image: url(img/tailand_4.webp);
+    block-size: cover;
+    background-attachment: fixed;
+}
+
+.photo {
+    width: 400px;
+    height: 300px;
+}
+
+.photos {
+    display: flex;
+}
+
+.photo2 {
+    width: 400px;
+    height: 300px;
+}
+
+.photo3 {
+    width: 400px;
+    height: 300px;
+}
+
+.boxx {
+    width: 150px;
+    height: 50px;
+    margin: 10px;
+    background-color: rgba(44, 206, 255, 0.767);
+
+    color: rgb(247, 220, 220);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+
+    margin-left: 50px;
+    margin-top: 45px;
+    border: 4px rgb(136, 120, 221) solid;
+}
+
+
+
+.boxii {
+    display: flex;
+}

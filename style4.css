@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2? family= Lobster & display=swap');
+
+body {
+    background-image: url(img/tailand_7.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.textk {
+    font-size: 50px;
+    font-family: 'Lobster', cursive;
+    color: bisque;
+
+}
+
+.klimatt {
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+    color: bisque;
+
+    background-color: rgba(255, 174, 67, 0.87);
+    border: 10px rgb(180, 117, 0) solid;
+    border-radius: 10px;
+
+    width: 800px;
+
+}
+
+.ssilka {
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+    margin-top: 50px;
+
+    color: bisque;
+    background-color: rgba(255, 174, 67, 0.87);
+    border: 4px rgb(180, 117, 0) solid;
+
+
+}
+
+
+.boxii {
+    display: flex;
+}
+
+.ooox {
+    margin-top: 45px;
+    margin-left: 25%;
+
+}
+
+.ooxxx {
+    margin-left: 29%;
+    margin-top: 50px;
+}
